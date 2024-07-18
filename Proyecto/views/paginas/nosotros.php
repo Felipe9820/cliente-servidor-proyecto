@@ -27,4 +27,11 @@
                 fermentum vel. Nulla facilisi.</p>
         </div>
     </div>
+
+    <section class="contenedor seccion">
+    <h1>Más Sobre Nosotros</h1>
+
+    <?php include 'iconos.php'; ?>
+    </section>
+    
 </main>
