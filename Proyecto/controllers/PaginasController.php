@@ -21,4 +21,14 @@ class PaginasController
     {
         $router->render("paginas/propiedades", []);
     }
+
+    public static function blog(Router $router)
+    {
+        $router->render("paginas/blog", []);
+    }
+
+    public static function entrada(Router $router)
+    {
+        $router->render("paginas/entrada", []);
+    }
 }

@@ -32,3 +32,10 @@
     </div>
   </section>
 </div>
+
+<main class="contenedor seccion">
+  <h1>Más Sobre Nosotros</h1>
+
+  <?php include 'iconos.php'; ?>
+
+</main>
